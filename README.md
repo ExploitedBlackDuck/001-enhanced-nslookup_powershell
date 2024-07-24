@@ -1,7 +1,3 @@
-Sure, here is a detailed document for the given PowerShell script:
-
----
-
 # PowerShell Script Documentation: nslookup Processing Script
 
 ## Purpose
